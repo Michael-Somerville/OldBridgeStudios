@@ -1,0 +1,21 @@
+Copyright © 2025 Michael David Somerville
+All rights reserved.
+
+This software ("the Engine") and all associated files are the intellectual property of the copyright holder.
+
+Permissions:
+- You may use the Engine to create, develop, and publish your own games or interactive applications.
+- You may distribute and sell the games you create with the Engine without paying royalties or fees.
+- You may use the Engine for personal or commercial projects **as long as your revenue from games made with the Engine does not exceed USD 100,000 per year**.
+
+Restrictions:
+- You may NOT sell, sublicense, distribute, or otherwise provide the Engine itself to others.
+- You may NOT modify, reverse engineer, or create derivative engines or tools based on the Engine.
+- You may NOT claim ownership of the Engine or any part of its source code.
+
+Pro License:
+- If your annual revenue from games created with the Engine exceeds USD 100,000, you must obtain a Pro License from the copyright holder to continue using the Engine.
+- Contact the copyright holder to obtain pricing and terms for the Pro License.
+
+Any use outside of these permissions requires prior written consent from the copyright holder.
+Unauthorized use is prohibited and may result in legal action.
